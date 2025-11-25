@@ -1,11 +1,40 @@
 {
-  "posts": [
-    {
-      "id": 1,
-      "title": "hello"
-    }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+   "notes":[
+      {
+       "id": 0,
+       "title": "Todoz app - next steps",
+       "content": "Finish the networking layer of the app",
+       "colorIndex": 0
+      },
+      {
+       "id": 1,
+       "title": "Hello World!",
+       "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit...",
+       "colorIndex": 0
+      },
+      {
+       "id": 2,
+       "title": "Work Meeting Notes",
+       "content": "Discussed progress on project X, deadlines, and...",
+       "colorIndex": 1
+      },
+      {
+       "id": 3,
+       "title": "Class Notes",
+       "content": "Lecture on Biology: DNA structure and replication...",
+       "colorIndex": 2
+      },
+      {
+       "id": 4,
+       "title": "Project Plan",
+       "content": "Research, design, implementation, testing, deployment",
+       "colorIndex": 1
+      },
+      {
+       "id": 5,
+       "title": "To-Do List",
+       "content": "Finish homework, call the dentist, buy groceries...",
+       "colorIndex": 2
+      }
+   ]
 }
